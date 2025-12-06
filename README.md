@@ -193,4 +193,4 @@ Verifique o relatório em `target/site/jacoco/index.html`
 
 ---
 
-**Desenvolvido com 🧪 e ✅ - 2025**
+**Desenvolvedora Elaine Soares ✅ - 2025**
